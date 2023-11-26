@@ -1,0 +1,4 @@
+server_configs:
+  host: "localhost"
+  port: "18080"
+  timeout: 1s
