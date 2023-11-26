@@ -1,4 +1,4 @@
-module yamlreader
+module "github.com/Danil-devv/yamlreader"
 
 go 1.21
 
